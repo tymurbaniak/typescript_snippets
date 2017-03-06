@@ -1,4 +1,4 @@
-﻿function sayHello() {
+﻿function validatePesel() {
     var pesel = (document.getElementById("pesel") as HTMLInputElement).value;
 
 
